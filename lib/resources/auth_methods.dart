@@ -27,7 +27,7 @@ class AuthMethods {
       //
       // UserCredential userCredential =
       //     await _auth.signInWithCredential(credential);
-      UserCredential userCredential = await _auth.signInWithEmailAndPassword(
+      UserCredential userCredential = await _auth.createUserWithEmailAndPassword(
           email: 'eslamghazy600@gmail.com', password: '123456789');
 
       User? user = userCredential.user;

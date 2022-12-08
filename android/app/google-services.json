@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "509212571928",
-    "project_id": "flutterzoomclone-2ea91",
-    "storage_bucket": "flutterzoomclone-2ea91.appspot.com"
+    "project_number": "261129399415",
+    "project_id": "zoomclone-7ea01",
+    "storage_bucket": "zoomclone-7ea01.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:509212571928:android:2a6d75b0dfdec6ad3d066d",
+        "mobilesdk_app_id": "1:261129399415:android:9d87d595c1f377e0d66a72",
         "android_client_info": {
           "package_name": "com.example.zoom_clone_tutorial"
         }
       },
       "oauth_client": [
         {
-          "client_id": "509212571928-fcrnmouujs23stop7ikg37n71edg96nv.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.zoom_clone_tutorial",
-            "certificate_hash": "f367566018492b50a0de360a9e903ef2ccef19e9"
-          }
-        },
-        {
-          "client_id": "509212571928-6oc323alrr9j1i55q26qmbl8jrj8evr4.apps.googleusercontent.com",
+          "client_id": "261129399415-chtpoeisnae3q9i9e4loe6d9ionsr3ai.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDVa1fcpccPNgxd8bR-v9Yu-mp46BPSXiI"
+          "current_key": "AIzaSyDn6aSKDYHr-i1oyfr5AKExBxWAP-rlN18"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "509212571928-6oc323alrr9j1i55q26qmbl8jrj8evr4.apps.googleusercontent.com",
+              "client_id": "261129399415-chtpoeisnae3q9i9e4loe6d9ionsr3ai.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
